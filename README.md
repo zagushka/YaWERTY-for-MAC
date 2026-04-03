@@ -1,5 +1,7 @@
 # Russian YaWERTY For macOS
 
+![YaW Logo](assets/yaw-logo.svg)
+
 This project contains a native macOS keyboard layout for a Russian `ЯВЕРТЫ` phonetic-style layout.
 
 ## Included
