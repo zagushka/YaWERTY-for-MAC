@@ -2,7 +2,7 @@
 set -euo pipefail
 
 TARGET_DIR="$HOME/Library/Keyboard Layouts"
-BUNDLE_NAME="Russian - ЯВЕРТЫ.bundle"
+BUNDLE_NAME="Russian-YaWERTY.bundle"
 TARGET_PATH="$TARGET_DIR/$BUNDLE_NAME"
 
 if [[ -d "$TARGET_PATH" ]]; then

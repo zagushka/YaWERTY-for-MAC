@@ -70,6 +70,12 @@ This is the best built-in signal macOS exposes for custom keyboard layouts. It m
 
 The bundle includes a generated `.icns` icon based on the Russian flag, so the input menu should show a custom icon instead of the generic keyboard icon.
 
+All on-disk filenames are ASCII/English-only:
+
+- `Russian-YaWERTY.bundle`
+- `Russian-YaWERTY.keylayout`
+- `Russian-YaWERTY.icns`
+
 ## Notes
 
 - This layout targets ANSI Mac keyboards.

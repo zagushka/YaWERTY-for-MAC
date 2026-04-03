@@ -3,7 +3,7 @@ set -euo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 TARGET_DIR="$HOME/Library/Keyboard Layouts"
-BUNDLE_NAME="Russian - ЯВЕРТЫ.bundle"
+BUNDLE_NAME="Russian-YaWERTY.bundle"
 BUNDLE_PATH="$SCRIPT_DIR/dist/$BUNDLE_NAME"
 
 mkdir -p "$TARGET_DIR"
