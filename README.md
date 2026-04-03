@@ -5,7 +5,7 @@ This project contains a native macOS keyboard layout for a Russian `ЯВЕРТЫ
 ## Included
 
 - `layouts/Russian-YaWERTY.keylayout`: the raw keyboard layout
-- `assets/russian-flag.svg`: source art for the input-source icon
+- `assets/yaw-logo.svg`: source art for the repository logo and input-source icon
 - `scripts/build_bundle.sh`: builds a macOS `.bundle` package with metadata and icon
 - `install.sh`: builds and installs the bundle for the current user
 - `uninstall.sh`: removes the installed bundle for the current user
@@ -68,7 +68,7 @@ This is the best built-in signal macOS exposes for custom keyboard layouts. It m
 
 ## Icon
 
-The bundle includes a generated `.icns` icon based on the Russian flag, so the input menu should show a custom icon instead of the generic keyboard icon.
+The bundle includes a generated `.icns` icon based on the `ЯW` mark, so the input menu should show a custom icon instead of the generic keyboard icon.
 
 All on-disk filenames are ASCII/English-only:
 
