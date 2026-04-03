@@ -1,11 +1,14 @@
 # Russian YaWERTY For macOS
 
-This project contains a native macOS keyboard layout file for a Russian `ЯВЕРТЫ` phonetic-style layout.
+This project contains a native macOS keyboard layout for a Russian `ЯВЕРТЫ` phonetic-style layout.
 
 ## Included
 
-- `layouts/Russian-YaWERTY.keylayout`: the macOS keyboard layout
-- `install.sh`: installs it for the current user
+- `layouts/Russian-YaWERTY.keylayout`: the raw keyboard layout
+- `assets/russian-flag.svg`: source art for the input-source icon
+- `scripts/build_bundle.sh`: builds a macOS `.bundle` package with metadata and icon
+- `install.sh`: builds and installs the bundle for the current user
+- `uninstall.sh`: removes the installed bundle for the current user
 
 ## Main mapping
 
@@ -42,6 +45,30 @@ Then:
 2. Open `System Settings > Keyboard > Input Sources`.
 3. Click `Edit` or `+`.
 4. Find `Russian - ЯВЕРТЫ` under custom layouts / others and add it.
+
+## Uninstall
+
+Run:
+
+```bash
+./uninstall.sh
+```
+
+Then remove `Russian - ЯВЕРТЫ` from `System Settings > Keyboard > Input Sources` if it still appears, and log out and back in or restart macOS.
+
+## Caps Lock Classification Test
+
+The install now uses a `.bundle` package instead of only a plain `.keylayout`.
+That bundle declares:
+
+- intended language: `ru`
+- Caps Lock language switching capable: `true`
+
+This is the best built-in signal macOS exposes for custom keyboard layouts. It may improve how the layout is classified by the system, but Apple does not guarantee that custom layouts get the same Caps Lock behavior as built-in non-Latin input methods.
+
+## Icon
+
+The bundle includes a generated `.icns` icon based on the Russian flag, so the input menu should show a custom icon instead of the generic keyboard icon.
 
 ## Notes
 

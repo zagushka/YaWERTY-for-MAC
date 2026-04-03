@@ -63,7 +63,7 @@
       <key code="25" output="9" />
       <key code="29" output="0" />
       <key code="27" output="-" />
-      <key code="24" output="ю" />
+      <key code="24" output="ч" />
       <key code="12" output="я" />
       <key code="13" output="в" />
       <key code="14" output="е" />
@@ -87,7 +87,7 @@
       <key code="37" output="л" />
       <key code="41" output=";" />
       <key code="39" output="'" />
-      <key code="50" output="ч" />
+      <key code="50" output="ю" />
       <key code="42" output="э" />
       <key code="6" output="з" />
       <key code="7" output="ь" />
@@ -114,7 +114,7 @@
       <key code="25" output="(" />
       <key code="29" output=")" />
       <key code="27" output="_" />
-      <key code="24" output="Ю" />
+      <key code="24" output="Ч" />
       <key code="12" output="Я" />
       <key code="13" output="В" />
       <key code="14" output="Е" />
@@ -138,7 +138,7 @@
       <key code="37" output="Л" />
       <key code="41" output=":" />
       <key code="39" output="&quot;" />
-      <key code="50" output="Ч" />
+      <key code="50" output="Ю" />
       <key code="42" output="Э" />
       <key code="6" output="З" />
       <key code="7" output="Ь" />
@@ -165,7 +165,7 @@
       <key code="25" output="9" />
       <key code="29" output="0" />
       <key code="27" output="-" />
-      <key code="24" output="Ю" />
+      <key code="24" output="Ч" />
       <key code="12" output="Я" />
       <key code="13" output="В" />
       <key code="14" output="Е" />
@@ -189,7 +189,7 @@
       <key code="37" output="Л" />
       <key code="41" output=";" />
       <key code="39" output="'" />
-      <key code="50" output="Ч" />
+      <key code="50" output="Ю" />
       <key code="42" output="Э" />
       <key code="6" output="З" />
       <key code="7" output="Ь" />
@@ -216,7 +216,7 @@
       <key code="25" output="(" />
       <key code="29" output=")" />
       <key code="27" output="_" />
-      <key code="24" output="ю" />
+      <key code="24" output="ч" />
       <key code="12" output="я" />
       <key code="13" output="в" />
       <key code="14" output="е" />
@@ -240,7 +240,7 @@
       <key code="37" output="л" />
       <key code="41" output=":" />
       <key code="39" output="&quot;" />
-      <key code="50" output="ч" />
+      <key code="50" output="ю" />
       <key code="42" output="э" />
       <key code="6" output="з" />
       <key code="7" output="ь" />
@@ -267,7 +267,7 @@
       <key code="25" output="9" />
       <key code="29" output="0" />
       <key code="27" output="-" />
-      <key code="24" output="ю" />
+      <key code="24" output="ч" />
       <key code="12" output="я" />
       <key code="13" output="в" />
       <key code="14" output="е" />
@@ -291,7 +291,7 @@
       <key code="37" output="л" />
       <key code="41" output=";" />
       <key code="39" output="ъ" />
-      <key code="50" output="ё" />
+      <key code="50" output="ю" />
       <key code="42" output="э" />
       <key code="6" output="з" />
       <key code="7" output="ь" />
@@ -318,7 +318,7 @@
       <key code="25" output="(" />
       <key code="29" output=")" />
       <key code="27" output="_" />
-      <key code="24" output="Ю" />
+      <key code="24" output="Ч" />
       <key code="12" output="Я" />
       <key code="13" output="В" />
       <key code="14" output="Е" />
@@ -342,7 +342,7 @@
       <key code="37" output="Л" />
       <key code="41" output=":" />
       <key code="39" output="Ъ" />
-      <key code="50" output="Ё" />
+      <key code="50" output="Ю" />
       <key code="42" output="Э" />
       <key code="6" output="З" />
       <key code="7" output="Ь" />
@@ -369,7 +369,7 @@
       <key code="25" output="9" />
       <key code="29" output="0" />
       <key code="27" output="-" />
-      <key code="24" output="Ю" />
+      <key code="24" output="Ч" />
       <key code="12" output="Я" />
       <key code="13" output="В" />
       <key code="14" output="Е" />
@@ -393,7 +393,7 @@
       <key code="37" output="Л" />
       <key code="41" output=";" />
       <key code="39" output="Ъ" />
-      <key code="50" output="Ё" />
+      <key code="50" output="Ю" />
       <key code="42" output="Э" />
       <key code="6" output="З" />
       <key code="7" output="Ь" />
@@ -420,7 +420,7 @@
       <key code="25" output="(" />
       <key code="29" output=")" />
       <key code="27" output="_" />
-      <key code="24" output="ю" />
+      <key code="24" output="ч" />
       <key code="12" output="я" />
       <key code="13" output="в" />
       <key code="14" output="е" />
@@ -444,7 +444,7 @@
       <key code="37" output="л" />
       <key code="41" output=":" />
       <key code="39" output="ъ" />
-      <key code="50" output="ё" />
+      <key code="50" output="ю" />
       <key code="42" output="э" />
       <key code="6" output="з" />
       <key code="7" output="ь" />
